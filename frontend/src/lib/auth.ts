@@ -2,7 +2,7 @@ import { create } from "zustand";
 import axios from "axios";
 
 const API_URL = process.env.NEXT_PUBLIC_API_URL 
-// || "https://zarmain-hakathon2-phase2.hf.space";
+
 
 // ==================== Types ====================
 
